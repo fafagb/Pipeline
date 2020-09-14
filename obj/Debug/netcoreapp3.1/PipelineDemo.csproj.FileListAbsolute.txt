@@ -1,0 +1,33 @@
+D:\Projects\Ruanmou.DotnetCoreDemo\PipelineDemo\obj\Debug\netcoreapp3.1\PipelineDemo.csprojAssemblyReference.cache
+D:\Projects\Ruanmou.DotnetCoreDemo\PipelineDemo\obj\Debug\netcoreapp3.1\PipelineDemo.AssemblyInfoInputs.cache
+D:\Projects\Ruanmou.DotnetCoreDemo\PipelineDemo\obj\Debug\netcoreapp3.1\PipelineDemo.AssemblyInfo.cs
+D:\Projects\Ruanmou.DotnetCoreDemo\PipelineDemo\bin\Debug\netcoreapp3.1\PipelineDemo.exe
+D:\Projects\Ruanmou.DotnetCoreDemo\PipelineDemo\bin\Debug\netcoreapp3.1\PipelineDemo.deps.json
+D:\Projects\Ruanmou.DotnetCoreDemo\PipelineDemo\bin\Debug\netcoreapp3.1\PipelineDemo.runtimeconfig.json
+D:\Projects\Ruanmou.DotnetCoreDemo\PipelineDemo\bin\Debug\netcoreapp3.1\PipelineDemo.runtimeconfig.dev.json
+D:\Projects\Ruanmou.DotnetCoreDemo\PipelineDemo\bin\Debug\netcoreapp3.1\PipelineDemo.dll
+D:\Projects\Ruanmou.DotnetCoreDemo\PipelineDemo\bin\Debug\netcoreapp3.1\PipelineDemo.pdb
+D:\Projects\Ruanmou.DotnetCoreDemo\PipelineDemo\obj\Debug\netcoreapp3.1\PipelineDemo.dll
+D:\Projects\Ruanmou.DotnetCoreDemo\PipelineDemo\obj\Debug\netcoreapp3.1\PipelineDemo.pdb
+F:\架构\资料分享\.NET Core四天集训\.NET Core专题[第四次课][2019年12月30日]\PipelineDemo\bin\Debug\netcoreapp3.1\PipelineDemo.exe
+F:\架构\资料分享\.NET Core四天集训\.NET Core专题[第四次课][2019年12月30日]\PipelineDemo\bin\Debug\netcoreapp3.1\PipelineDemo.deps.json
+F:\架构\资料分享\.NET Core四天集训\.NET Core专题[第四次课][2019年12月30日]\PipelineDemo\bin\Debug\netcoreapp3.1\PipelineDemo.runtimeconfig.json
+F:\架构\资料分享\.NET Core四天集训\.NET Core专题[第四次课][2019年12月30日]\PipelineDemo\bin\Debug\netcoreapp3.1\PipelineDemo.runtimeconfig.dev.json
+F:\架构\资料分享\.NET Core四天集训\.NET Core专题[第四次课][2019年12月30日]\PipelineDemo\bin\Debug\netcoreapp3.1\PipelineDemo.dll
+F:\架构\资料分享\.NET Core四天集训\.NET Core专题[第四次课][2019年12月30日]\PipelineDemo\bin\Debug\netcoreapp3.1\PipelineDemo.pdb
+F:\架构\资料分享\.NET Core四天集训\.NET Core专题[第四次课][2019年12月30日]\PipelineDemo\obj\Debug\netcoreapp3.1\PipelineDemo.csprojAssemblyReference.cache
+F:\架构\资料分享\.NET Core四天集训\.NET Core专题[第四次课][2019年12月30日]\PipelineDemo\obj\Debug\netcoreapp3.1\PipelineDemo.AssemblyInfoInputs.cache
+F:\架构\资料分享\.NET Core四天集训\.NET Core专题[第四次课][2019年12月30日]\PipelineDemo\obj\Debug\netcoreapp3.1\PipelineDemo.AssemblyInfo.cs
+F:\架构\资料分享\.NET Core四天集训\.NET Core专题[第四次课][2019年12月30日]\PipelineDemo\obj\Debug\netcoreapp3.1\PipelineDemo.dll
+F:\架构\资料分享\.NET Core四天集训\.NET Core专题[第四次课][2019年12月30日]\PipelineDemo\obj\Debug\netcoreapp3.1\PipelineDemo.pdb
+D:\mywork\github\Pipeline\bin\Debug\netcoreapp3.1\PipelineDemo.exe
+D:\mywork\github\Pipeline\bin\Debug\netcoreapp3.1\PipelineDemo.deps.json
+D:\mywork\github\Pipeline\bin\Debug\netcoreapp3.1\PipelineDemo.runtimeconfig.json
+D:\mywork\github\Pipeline\bin\Debug\netcoreapp3.1\PipelineDemo.runtimeconfig.dev.json
+D:\mywork\github\Pipeline\bin\Debug\netcoreapp3.1\PipelineDemo.dll
+D:\mywork\github\Pipeline\bin\Debug\netcoreapp3.1\PipelineDemo.pdb
+D:\mywork\github\Pipeline\obj\Debug\netcoreapp3.1\PipelineDemo.csprojAssemblyReference.cache
+D:\mywork\github\Pipeline\obj\Debug\netcoreapp3.1\PipelineDemo.AssemblyInfoInputs.cache
+D:\mywork\github\Pipeline\obj\Debug\netcoreapp3.1\PipelineDemo.AssemblyInfo.cs
+D:\mywork\github\Pipeline\obj\Debug\netcoreapp3.1\PipelineDemo.dll
+D:\mywork\github\Pipeline\obj\Debug\netcoreapp3.1\PipelineDemo.pdb

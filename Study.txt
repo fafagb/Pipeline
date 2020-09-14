@@ -1,0 +1,53 @@
+﻿先填充 IList<Func<RequestDelegate, RequestDelegate>>  
+
+然后遍历List,Reverse该List循环执行里面的委托
+
+
+
+Func<HttpContext, Func<Task>, Task> middleware=async (context, next) =>
+            {
+                Console.WriteLine("中间件1号 Begin");
+                await next();
+                Console.WriteLine("中间件1号 End");
+            });
+
+最后一个中间件：
+ RequestDelegate app = context =>
+            {
+                Console.WriteLine("默认中间件");
+                return Task.CompletedTask;
+            };
+
+原始方法，   核心方法Func<RequestDelegate, RequestDelegate> middleware，    中间件方法，最后默认中间件方法
+
+
+假设算上最后一个中间件一共三个，倒序循环核心方法列表，第一次拿到倒数第二个核心方法（最后的默认中间件方法作为入参）执行，返回中间件方法，返回的中间件方法作为入参传给第一个核心方法，然后返回第一个中间件方法，然后执行第一个中间件方法，
+
+context =>{//声明本地函数SimpleNext
+Task SimpleNext() =>next(context);
+return middleware(context, SimpleNext);
+};
+next(context)  是上一个返回中间件方法
+
+
+
+
+管道的最终形态：RequestDelegate  中间件方法里调用了原始方法。RequestDelegate的实现逻辑经过Reverse遍历后最终使得委托1调用委托2，委托2调用结束委托
+调用委托1后，程序最终输出结果：
+中间件1开始 
+中间件2开始
+结束中间件
+中间件2结束
+中间件1结束
+
+
+
+
+项目启动，运行主机的时候会执行configure方法，这个时候configure方法是往管道里添加中间件
+而请求来的时候不会执行configure方法，执行的是管道的第一中间件（.netcore专题第四次课1:27）
+
+
+
+
+
+
